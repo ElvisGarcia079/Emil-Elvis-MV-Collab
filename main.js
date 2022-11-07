@@ -8,3 +8,6 @@ console.log("Emil and Elvis Collab");
 // Elvis Turn: 
   // I pull: 
     // I get your updates, and I should automatically see your console.log();
+
+
+console.log("If you're seeing this you were successful");
